@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Music</string>
+
+    //MENU
+    <string name="mlt1">Usuarios</string>
+    <string name="mlt2">Configuración</string>
+    <string name="mlt3">Información</string>
+    <string name="mlt4">Sobre nosotros</string>
+    <string name="mlt5">Imagenes</string>
+
+    //TABS
+    <string name="ti1">Home</string>
+    <string name="ti2">Buscar</string>
+    <string name="ti3">Artistas</string>
+    <string name="ti4">Usuario</string>
+    <string name="frag1">Este es el primer ejemplo de fragment dentro del código</string>
+    <string name="frag2">Este es el segundo ejemplo de fragment dentro del código</string>
+    <string name="frag3">Este es el tercer ejemplo de fragment dentro del código</string>
+    <string name="frag4">Este es el cuarto ejemplo de fragment dentro del código</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
